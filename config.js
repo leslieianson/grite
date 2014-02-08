@@ -5,7 +5,8 @@ var config = {
             { text: 'Documentation',
               link: 'https://github.com/sankha93/grite/wiki/Documentation'} ],
   posts: [ '8884730',
-           '8885078' ],
+           '8885078'
+           '8885177' ],
   atOnce: 5,
   footerText: "&copy; 2014 Leslie I'Anson"
 };
